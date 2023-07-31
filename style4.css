@@ -1,0 +1,72 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #e6d3f4!important; 
+}
+
+.nav-link{
+    color: #c99bd9!important;
+}
+
+.text-bg-primary {
+    background-color: #c99bd9!important;
+}
+
+.btn-primary{
+        background-color: #c99bd9!important;
+}
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('mariposa.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('flores.jpg');
+}
+#proyecto-3{
+    background-image: url('flores.jpg');
+}
+#proyecto-4{
+    background-image: url('flores.jpg');
+}
+#proyecto-5{
+    background-image: url('flores.jpg');
+}
+#proyecto-6{
+    background-image: url('flores.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #c99bd9;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:#c99bd9;
+}
+
+.icono{
+    width: 50px;
+}
+
+.icono {
+    font-size: 2rem;
+    color: white; 
+    margin: 12px;
+}
